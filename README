@@ -1,0 +1,39 @@
+# ***Cancha de Futbol***
+
+#### Para este ejercicio creamos las siguientes carpetas y archivos:
+
+#### *css*
+* master.css
+* main1.css
+* main2.css
+
+#### *README.md*
+
+#### *Archivo HTML*
+* index.html
+* index1.html
+* index2.html
+
+ ##### *Una vez creado, empece escribiendo el en archivo index.html y lo primero que hice fue crear una estructura basica de html :*
+
+* "head"
+* "title"
+* "title de web con <h1 "
+* "link que conecte con el archivo css"
+
+* "body"
+ * "agregue ocho <div "
+ * "4 class= box"
+ * "4 class=ball"
+
+### ***Archivo main.css***
+
+En el archivo main.css le di formato y estilo a cada class como: color, posición, tamaño, para ir creando la pagina de inicio que una con las otras paginas.
+* h1 <--Estilo, tamaño, color, borde y posición.
+* 4 class =box <--Estilo, tamaño, color y posición.
+* 4 class =ball <-- Tamaño, color, posición y borde.
+
+
+***Trabajo realizado por*** :+1:
+
+#### *Ventura Chavez, Yolanda*
